@@ -1,7 +1,7 @@
 # about me
 
 
-## fanweiya
+## Fanweiya[https://about.me/fanweiya][2]
 
 
 ### 致谢：
@@ -11,4 +11,4 @@
 
 
   [1]: https://github-laziji.github.io
-
+  [2]: https://about.me/fanweiya
